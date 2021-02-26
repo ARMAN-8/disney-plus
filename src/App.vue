@@ -6,7 +6,6 @@
               crossorigin="anonymous">
         <div class="nav w-24 fixed min-h-screen text-gray-500 flex justify-center items-center">
             <sidebar-navgation>
-
             </sidebar-navgation>
             <ul>
                 <li class="mb-10">
